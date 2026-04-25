@@ -1,0 +1,258 @@
+# depslib dependency file v1.0
+1765290983 source:c:\ass2\food delivery\enum.cpp
+	"Enum.h"
+
+1765300438 c:\ass2\food delivery\enum.h
+
+1765300901 source:c:\ass2\food delivery\fileop.cpp
+	"FileOp.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1765300621 c:\ass2\food delivery\fileop.h
+	<string>
+	"Order.h"
+	"Delivery.h"
+
+1765300975 c:\ass2\food delivery\order.h
+	<string>
+	"Enum.h"
+	"Customer.h"
+	"Delivery.h"
+	"Food Item.h"
+
+1765300509 c:\ass2\food delivery\customer.h
+	"User.h"
+	<string>
+
+1765300479 c:\ass2\food delivery\user.h
+	<string>
+	"Enum.h"
+
+1765300536 c:\ass2\food delivery\delivery.h
+	"User.h"
+	<string>
+
+1765301443 source:c:\ass2\food delivery\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	"Enum.h"
+	"User.h"
+	"Customer.h"
+	"Delivery.h"
+	"Food Item.h"
+	"Order.h"
+	"FileOp.h"
+	"Binary.h"
+
+1765301131 c:\ass2\food delivery\binary.h
+	<string>
+
+1765300821 source:c:\ass2\food delivery\order.cpp
+	"Order.h"
+	<iostream>
+	<iomanip>
+
+1765300687 source:c:\ass2\food delivery\user.cpp
+	"User.h"
+
+1765300710 source:c:\ass2\food delivery\customer.cpp
+	"Customer.h"
+	<iostream>
+
+1765300748 source:c:\ass2\food delivery\delivery.cpp
+	"Delivery.h"
+	<iostream>
+	<iomanip>
+
+1765301179 source:c:\ass2\food delivery\binary.cpp
+	"Binary.h"
+	"Order.h"
+	<fstream>
+	<chrono>
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1765300970 source:c:\ass2\food delivery\food item.cpp
+	"Food Item.h"
+	<iostream>
+	<iomanip>
+
+1765300562 c:\ass2\food delivery\food item.h
+	<string>
+
+1765302964 source:c:\assign2_20246099_20246105\food delivery\binary.cpp
+	"Binary.h"
+	"Order.h"
+	<fstream>
+	<chrono>
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1765302964 c:\assign2_20246099_20246105\food delivery\binary.h
+	<string>
+
+1765302964 c:\assign2_20246099_20246105\food delivery\order.h
+	<string>
+	"Enum.h"
+	"Customer.h"
+	"Delivery.h"
+	"Food Item.h"
+
+1765302964 c:\assign2_20246099_20246105\food delivery\enum.h
+
+1765302964 c:\assign2_20246099_20246105\food delivery\customer.h
+	"User.h"
+	<string>
+
+1765302964 c:\assign2_20246099_20246105\food delivery\user.h
+	<string>
+	"Enum.h"
+
+1765302964 c:\assign2_20246099_20246105\food delivery\delivery.h
+	"User.h"
+	<string>
+
+1765302964 c:\assign2_20246099_20246105\food delivery\food item.h
+	<string>
+
+1765302964 source:c:\assign2_20246099_20246105\food delivery\customer.cpp
+	"Customer.h"
+	<iostream>
+
+1765302964 source:c:\assign2_20246099_20246105\food delivery\delivery.cpp
+	"Delivery.h"
+	<iostream>
+	<iomanip>
+
+1765302436 source:c:\assign2_20246099_20246105\food delivery\enum.cpp
+	"Enum.h"
+
+1765302964 source:c:\assign2_20246099_20246105\food delivery\fileop.cpp
+	"FileOp.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1765302964 c:\assign2_20246099_20246105\food delivery\fileop.h
+	<string>
+	"Order.h"
+	"Delivery.h"
+
+1765302964 source:c:\assign2_20246099_20246105\food delivery\food item.cpp
+	<iostream>
+	<iomanip>
+
+1765302866 source:c:\assign2_20246099_20246105\food delivery\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	"Enum.h"
+	"User.h"
+	"Customer.h"
+	"Delivery.h"
+	"Food Item.h"
+	"Order.h"
+	"FileOp.h"
+	"Binary.h"
+
+1765302964 source:c:\assign2_20246099_20246105\food delivery\order.cpp
+	"Order.h"
+	<iostream>
+	<iomanip>
+
+1765302964 source:c:\assign2_20246099_20246105\food delivery\user.cpp
+	"User.h"
+
+1777146877 source:c:\users\c2d\desktop\food delivery\binary.cpp
+	"Binary.h"
+	"Order.h"
+	<fstream>
+	<chrono>
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1777146960 c:\users\c2d\desktop\food delivery\binary.h
+	<string>
+
+1777147015 c:\users\c2d\desktop\food delivery\order.h
+	<string>
+	"Enum.h"
+	"Customer.h"
+	"Delivery.h"
+	"Food Item.h"
+
+1777146991 c:\users\c2d\desktop\food delivery\enum.h
+
+1777146995 c:\users\c2d\desktop\food delivery\customer.h
+	"User.h"
+	<string>
+
+1777147024 c:\users\c2d\desktop\food delivery\user.h
+	<string>
+	"Enum.h"
+
+1777146993 c:\users\c2d\desktop\food delivery\delivery.h
+	"User.h"
+	<string>
+
+1777147004 c:\users\c2d\desktop\food delivery\food item.h
+	<string>
+
+1777146886 source:c:\users\c2d\desktop\food delivery\customer.cpp
+	"Customer.h"
+	<iostream>
+
+1777146893 source:c:\users\c2d\desktop\food delivery\delivery.cpp
+	"Delivery.h"
+	<iostream>
+	<iomanip>
+
+1777146901 source:c:\users\c2d\desktop\food delivery\enum.cpp
+	"Enum.h"
+
+1777146908 source:c:\users\c2d\desktop\food delivery\fileop.cpp
+	"FileOp.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1777146989 c:\users\c2d\desktop\food delivery\fileop.h
+	<string>
+	"Order.h"
+	"Delivery.h"
+
+1777147069 source:c:\users\c2d\desktop\food delivery\food item.cpp
+	"Food Item.h"
+	<iostream>
+	<iomanip>
+
+1777146919 source:c:\users\c2d\desktop\food delivery\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	"Enum.h"
+	"User.h"
+	"Customer.h"
+	"Delivery.h"
+	"Food Item.h"
+	"Order.h"
+	"FileOp.h"
+	"Binary.h"
+
+1777146937 source:c:\users\c2d\desktop\food delivery\order.cpp
+	"Order.h"
+	<iostream>
+	<iomanip>
+
+1777146946 source:c:\users\c2d\desktop\food delivery\user.cpp
+	"User.h"
+
